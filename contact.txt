@@ -1,0 +1,10 @@
+<!-- contact.html -->
+<form action="contact.php" method="post">
+  <label for="name">Naam:</label>
+  <input type="text" id="name" name="name"><br>
+
+  <label for="email">E-mail:</label>
+  <input type="email" id="email" name="email"><br>
+
+  <input type="submit" value="Verzenden">
+</form>
